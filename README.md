@@ -1,1 +1,0 @@
-# FinanceSharingApp-Backend

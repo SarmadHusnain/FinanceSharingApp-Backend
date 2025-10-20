@@ -1,6 +1,0 @@
-# .NET Core build files
-/bin/
-/obj/
-
-# Sensitive files
-appsettings.Development.json
